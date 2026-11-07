@@ -103,19 +103,32 @@ A web-based application monitoring platform designed to help developers understa
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=jawad-irfan&show_icons=true&theme=transparent&hide_border=true" />
+<!-- Profile Summary -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jawad-irfan&theme=github_dark" />
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=jawad-irfan&layout=compact&theme=transparent&hide_border=true" />
+<br/>
+
+<!-- Stats and Productivity -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jawad-irfan&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jawad-irfan&theme=github_dark&utcOffset=5" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=jawad-irfan&theme=transparent&hide_border=true" />
+<!-- Contribution Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jawad-irfan&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+<br/>
+
+<!-- Streak -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=jawad-irfan&theme=github-dark-blue&hide_border=true" />
 
 </div>
+
 
 ---
 
