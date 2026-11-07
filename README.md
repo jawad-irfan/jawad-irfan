@@ -77,16 +77,19 @@ A web-based platform designed to monitor applications, detect errors, analyze pe
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jawad-irfan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+### 📈 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-irfan&layout=compact&theme=transparent&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jawad-irfan&show_icons=true&hide_border=true&theme=transparent" />
 
-<br/>
+### 💻 Most Used Languages
 
-<img src="https://streak-stats.demolab.com?user=jawad-irfan&theme=transparent&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-irfan&layout=compact&hide_border=true&theme=transparent" />
+
+### 🔥 Contribution Streak
+
+<img width="48%" src="https://streak-stats.demolab.com/?user=jawad-irfan&hide_border=true&theme=transparent" />
 
 </div>
-
 ---
 
 ## 🎯 Currently Learning / Working On
