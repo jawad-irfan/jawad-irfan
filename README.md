@@ -61,7 +61,7 @@ I'm **Jawad Irfan**, a Computer Information Technology student and aspiring Full
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 📱 Mobile Development
