@@ -1,127 +1,163 @@
 
-<!-- ================= HEADER ================= -->
+<!-- =============== JAWAD IRFAN | GITHUB PROFILE =============== -->
 
 <div align="center">
 
-# 👋 Hi, I'm Jawad Irfan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080F1D,50:102A50,100:0878C9&height=220&section=header&text=JAWAD%20IRFAN&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=16&descAlignY=65&descColor=BAE6FD&animation=fadeIn" />
 
-### 💻 Computer Information Technology Student | Web Developer | Tech Enthusiast
+<br/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Exploring+Cybersecurity;Building+Real+World+Projects;Always+Learning+New+Technologies" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Digital+Experiences;Full+Stack+Web+Developer;Exploring+Cybersecurity;Learning+Today.+Building+Tomorrow." />
+
+<br/>
+
+<a href="https://github.com/jawad-irfan">
+<img src="https://img.shields.io/badge/GitHub-jawad--irfan-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Contact-Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 I'm a **DAE CIT (Computer Information Technology)** student.
-- 💻 Passionate about Full Stack Web Development and modern technologies.
-- 🔐 Interested in Cybersecurity, system security, and secure application development.
-- 🚀 Focused on building practical projects and improving my problem-solving skills.
-- 🌱 Believe in continuous learning, creativity, and turning ideas into reality.
+I'm **Jawad Irfan**, a Computer Information Technology student and aspiring Full Stack Developer passionate about building modern digital solutions.
+
+- 🎓 Pursuing Diploma of Associate Engineering (DAE) in CIT.
+- 💻 Interested in full-stack web application development.
+- 🔐 Exploring cybersecurity and secure coding practices.
+- 🧠 Enjoy solving technical problems and learning new technologies.
+- 🚀 Focused on turning innovative ideas into practical applications.
+
+> "Great software is built through curiosity, creativity, and continuous improvement."
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Technical Arsenal
 
-### 💻 Languages
+### 💻 Programming Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,python,dart" />
+</p>
 
 ### 🎨 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,angular" />
+</p>
 
 ### ⚙️ Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-### 🔧 Tools & Technologies
+### 📱 Mobile Development
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
 
----
+### 🛠️ Development Tools
 
-## 🚀 Featured Projects
-
-### 🔍 DevLens — Intelligent Application Monitoring & Debugging Platform
-
-A web-based platform designed to monitor applications, detect errors, analyze performance issues, and help developers understand and troubleshoot technical problems.
-
-**Tech Stack:**
-`React` `JavaScript` `Node.js` `Express.js` `MongoDB`
-
-🔗 **Repository:** [DevLens](https://github.com/jawad-irfan/DevLens)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
 
 ---
 
-
-## 📊 GitHub Statistics
+## 🚀 Featured Project
 
 <div align="center">
 
-### 📈 GitHub Stats
+### 🔍 DevLens
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api?username=jawad-irfan&show_icons=true&theme=transparent&hide_border=true" />
+**Intelligent Application Monitoring & Debugging Platform**
 
-### 💻 Most Used Languages
+</div>
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jawad-irfan&layout=compact&theme=transparent&hide_border=true" />
+A web-based application monitoring platform designed to help developers understand application errors, failed API requests, and performance issues through a centralized dashboard.
 
-### 🔥 Contribution Streak
+**Core Vision:**
+- 📊 Centralized application monitoring.
+- ⚠️ Error and failed API request tracking.
+- ⏱️ Performance monitoring and response-time analysis.
+- 🤖 AI-assisted error explanations and debugging guidance.
 
-<img width="48%" src="https://streak-stats.demolab.com/?user=jawad-irfan&hide_border=true&theme=transparent" />
+**Technology Stack:**
+
+`React` `JavaScript` `Node.js` `Express.js` `MongoDB`
+
+🔗 **Repository:** [Explore DevLens](https://github.com/jawad-irfan/DevLens)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=jawad-irfan&show_icons=true&theme=transparent&hide_border=true" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=jawad-irfan&layout=compact&theme=transparent&hide_border=true" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=jawad-irfan&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 Currently Learning / Working On
+## 🌱 Currently Exploring
 
-- ⚛️ Improving my React.js and frontend development skills.
-- ⚙️ Building backend applications using Node.js and Express.js.
-- 🗄️ Working with MongoDB and database management.
-- 🔐 Exploring Cybersecurity and secure coding practices.
-- 🚀 Developing **DevLens**, my Final Year Project.
+- ⚛️ Advanced React.js development.
+- 🔧 Backend architecture with Node.js and Express.
+- 🗄️ Database design and optimization with MongoDB.
+- 🔐 Cybersecurity fundamentals and secure development.
+- 🤖 AI integration in modern web applications.
+- 🚀 Building and improving DevLens.
 
 ---
 
-## 🤝 Connect With Me
+## 🎓 Education
+
+**Diploma of Associate Engineering (DAE)**
+
+Computer Information Technology (CIT)
+
+Currently pursuing final-year studies.
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/jawad-irfan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:jawadirfan4243@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
 </div>
@@ -130,10 +166,12 @@ A web-based platform designed to monitor applications, detect errors, analyze pe
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Improve. Repeat."
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080F1D,100:0878C9&height=100&section=footer&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20INNOVATE&fontSize=20&fontColor=FFFFFF&fontAlignY=55" />
 
-⭐ Thanks for visiting my profile!
+**Thanks for visiting my profile!**
 
-**Let's connect, collaborate, and build something amazing.**
+⭐ If you like my work, feel free to explore my repositories.
 
 </div>
+
+<!-- ================= END ================= -->
