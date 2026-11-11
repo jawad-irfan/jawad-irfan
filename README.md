@@ -1,22 +1,17 @@
-
-<!-- =============== JAWAD IRFAN | GITHUB PROFILE =============== -->
+ <!-- JAWAD IRFAN | GITHUB PROFILE -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080F1D,50:102A50,100:0878C9&height=220&section=header&text=JAWAD%20IRFAN&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=16&descAlignY=65&descColor=BAE6FD&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080F1D,50:102A50,100:0878C9&height=220&section=header&text=JAWAD%20IRFAN&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=CIT%20STUDENT%20%7C%20WEB%20DEVELOPMENT%20%7C%20INDEPENDENT%20DEVELOPER&descSize=14&descAlignY=65&descColor=BAE6FD&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Digital+Experiences;Full+Stack+Web+Developer;Exploring+Cybersecurity;Learning+Today.+Building+Tomorrow." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Digital+Experiences;Exploring+Modern+Web+Technologies;Learning+Today.+Building+Tomorrow.;Turning+Ideas+Into+Practical+Projects." />
 
 <br/>
 
 <a href="https://github.com/jawad-irfan">
 <img src="https://img.shields.io/badge/GitHub-jawad--irfan-0B1220?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Contact-Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 </div>
@@ -25,19 +20,22 @@
 
 ## 👨‍💻 About Me
 
-I'm **Jawad Irfan**, a Computer Information Technology student and aspiring Full Stack Developer passionate about building modern digital solutions.
+Hi! I'm **Muhammad Jawad Irfan**, a final-year Diploma of Associate Engineering (DAE) student in Computer Information Technology (CIT), interested in web development and modern technologies.
 
-- 🎓 Pursuing Diploma of Associate Engineering (DAE) in CIT.
-- 💻 Interested in full-stack web application development.
-- 🔐 Exploring cybersecurity and secure coding practices.
-- 🧠 Enjoy solving technical problems and learning new technologies.
-- 🚀 Focused on turning innovative ideas into practical applications.
+I enjoy learning, experimenting with technologies, and turning ideas into practical digital solutions.
 
-> "Great software is built through curiosity, creativity, and continuous improvement."
+- 🎓 Final-year DAE student in Computer Information Technology.
+- 💻 Interested in frontend and backend web development.
+- ⚛️ Exploring React, Angular, Node.js, and modern web technologies.
+- 🗄️ Learning database development with MongoDB and SQL.
+- 🚀 Currently developing **DevLens**, my final-year project.
+- 🧠 Focused on continuous learning and practical development.
+
+> "Learn continuously. Build practically. Improve consistently."
 
 ---
 
-## ⚡ Technical Arsenal
+## ⚡ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -57,17 +55,10 @@ I'm **Jawad Irfan**, a Computer Information Technology student and aspiring Full
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 📱 Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🛠️ Development Tools
@@ -86,60 +77,60 @@ I'm **Jawad Irfan**, a Computer Information Technology student and aspiring Full
 
 **Intelligent Application Monitoring & Debugging Platform**
 
+<a href="https://github.com/jawad-irfan/DevLens">
+<img src="https://img.shields.io/badge/Explore-DevLens-0878C9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
-A web-based application monitoring platform designed to help developers understand application errors, failed API requests, and performance issues through a centralized dashboard.
+DevLens is my Final Year Project (CIT-362), a web-based platform designed to help developers monitor applications, identify errors, analyze failed API requests, and understand performance issues through a centralized dashboard.
 
-**Core Vision:**
+**Planned Core Features:**
+
 - 📊 Centralized application monitoring.
-- ⚠️ Error and failed API request tracking.
-- ⏱️ Performance monitoring and response-time analysis.
+- ⚠️ Application error tracking.
+- 🔗 Failed API request monitoring.
+- ⏱️ Response-time and performance analysis.
 - 🤖 AI-assisted error explanations and debugging guidance.
 
 **Technology Stack:**
 
 `React` `JavaScript` `Node.js` `Express.js` `MongoDB`
 
-🔗 **Repository:** [Explore DevLens](https://github.com/jawad-irfan/DevLens)
+<sub>Project is currently under development. Features and technologies are being implemented progressively.</sub>
 
 ---
-
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Profile Summary -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jawad-irfan&theme=github_dark" />
 
-<br/>
+<br/><br/>
 
-<!-- Stats and Productivity -->
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jawad-irfan&theme=github_dark" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jawad-irfan&theme=github_dark&utcOffset=5" />
 
 <br/><br/>
 
-<!-- Contribution Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jawad-irfan&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
-<br/>
+<br/><br/>
 
-<!-- Streak -->
 <img width="70%" src="https://streak-stats.demolab.com/?user=jawad-irfan&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
-
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
-- ⚛️ Advanced React.js development.
-- 🔧 Backend architecture with Node.js and Express.
-- 🗄️ Database design and optimization with MongoDB.
-- 🔐 Cybersecurity fundamentals and secure development.
-- 🤖 AI integration in modern web applications.
+- ⚛️ React.js and modern frontend development.
+- 🔧 Backend development using Node.js and Express.
+- 🗄️ Database management with MongoDB and SQL.
+- 🐍 Python programming.
+- 🤖 AI integration in web applications.
 - 🚀 Building and improving DevLens.
 
 ---
@@ -150,28 +141,16 @@ A web-based application monitoring platform designed to help developers understa
 
 Computer Information Technology (CIT)
 
-Currently pursuing final-year studies.
+Final-Year Student
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/jawad-irfan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
 </div>
@@ -184,8 +163,8 @@ Currently pursuing final-year studies.
 
 **Thanks for visiting my profile!**
 
-⭐ If you like my work, feel free to explore my repositories.
+⭐ Explore my repositories and follow my development journey.
 
 </div>
 
-<!-- ================= END ================= -->
+<!-- END OF PROFILE README -->
